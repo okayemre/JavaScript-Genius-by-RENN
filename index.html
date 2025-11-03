@@ -3,57 +3,58 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <link rel="stylesheet" href="styles.css" />
+    <title>JavaScript Genius Quiz</title>
+    <link rel="stylesheet" href="style.css" />
     <script src="app.js" defer></script>
   </head>
   <body>
     <h1>JavaScript Genius Quiz</h1>
 
     <!-- Nima -->
-    <div id="start_container" class="screen aktive"></div>
-    <h1 class="quiz-title">Herzlich Willkommen zum Trivia Quiz</h1>
-    <p class="quiz start menue">
-      bist du bereit für das Quiz? Drücke unten auf Start
-    </p>
-<button id="start-btn" class="btn start-btn">Start</button>
-</div>
+    <!-- Start Screen -->
+    <section id="start-container" class="section">
+      <h2 class="quiz-title">
+        Welcome to the JavaScript Quiz
+        <span class="subtitle"
+          >where semicolons are optional but fun is mandatory!</span
+        >
+      </h2>
 
+      <button id="start-btn">Let's Start!</button>
+    </section>
 
-    <section id="quiz-screen" class="quiz_container">
+    <!-- Emre -->
+    <!-- Quiz Screen -->
+    <section id="quiz-screen" class="section" style="display: none">
       <!-- Header -->
       <header class="quiz-header">
-        <h2>JavaScript Genius Quiz</h2>
-        <p id="question-number">Frage 1 von 10</p>
+        <h2>The JavaScript Challenge</h2>
+        <p id="question-number">Question 1 of 10</p>
       </header>
 
       <!-- Questions -->
       <div class="question-area">
-        <h3 id="question-text">Frage hier einfügen</h3>
+        <h3 id="question-text">Insert question here</h3>
       </div>
 
       <!-- Answers -->
       <ul id="answer-list" class="answer-list"></ul>
 
-      <!-- Feedback -->
-      <div
-        id="feedback"
-        class="feedback"
-        role="status"
-        aria-live="polite"
-      ></div>
-
       <!-- Control Buttons -->
       <footer class="quiz-footer">
-        <button id="next-btn" class="btn hidden">Nächste Frage ➜</button>
+        <button id="submit-btn">Submit</button>
+        <button id="skip-btn">Skip Question ➜</button>
+        <button id="next-btn">Next Question ➜</button>
       </footer>
     </section>
 
     <!-- Ronak -->
-    <div class="ergebnis_container">
-      <div id="Ergebnis">Ergebnis: </div>
-      <div class="text"></div>
-      <button class="btn" type="reset">Neustart</button>
-    </div>    
+    <!-- Result Screen -->
+    <section id="result-screen" class="section" style="display: none">
+      <h2>Quiz Results</h2>
+      <p id="result-text">You scored 0 out of 10!</p>
+      <p id="result-message">Keep practicing!</p>
+      <button id="restart-btn">Play Again</button>
+    </section>
   </body>
 </html>
