@@ -1,8 +1,10 @@
 # Interactive-Trivia-Quiz-Team-Project
 
 Team
-1- Ronak
+1 - Ronak
 
-- Naima
-  3- Nima
-- Emre
+2 - Naima
+
+3- Nima
+
+4- Emre
