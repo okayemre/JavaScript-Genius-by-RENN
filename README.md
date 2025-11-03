@@ -1,12 +1,6 @@
 # 💡 JavaScript Genius Quiz  
 *Ein interaktives, unterhaltsames Quiz, das dein JavaScript-Wissen testet!*  
 
----
-
-<img src="Entwurf.jpg" alt="Projektvorschau" width="400">
-
----
-
 ## 🏁 Team **RENN** präsentiert:
 ### _Run. Explore. Nerd. Network._
 Ein motiviertes Entwicklerteam mit Leidenschaft für JavaScript, Design und kreative Weblösungen.  
@@ -16,6 +10,11 @@ Ein motiviertes Entwicklerteam mit Leidenschaft für JavaScript, Design und krea
 ## 🎯 Projektbeschreibung  
 **JavaScript Genius Quiz** ist eine interaktive Single-Page-Anwendung (SPA), die dein JavaScript-Wissen auf spielerische Weise testet.  
 Starte das Quiz, beantworte Multiple-Choice-Fragen, überspringe schwierige Aufgaben und sieh dir am Ende dein Ergebnis an.
+
+---
+
+<img src="Entwurf.jpg" alt="Projektvorschau" width="400">
+
 
 ---
 
