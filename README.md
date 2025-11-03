@@ -3,8 +3,7 @@
 
 ---
 
-![Projektvorschau](images/quiz-preview.png)
-> 🖼️ *(![alt text](image.png): `/images/quiz-preview.png`)*
+![alt text](image-1.png)
 
 ---
 
@@ -30,9 +29,9 @@ Starte das Quiz, beantworte Multiple-Choice-Fragen, überspringe schwierige Aufg
 ---
 
 ## 🛠️ Verwendete Technologien
-- **HTML5** – Struktur und Aufbau  
-- **CSS3** – Design und Layout  
-- **JavaScript (ES6)** – Logik und Interaktivität  
+- **HTML** – Struktur und Aufbau  
+- **CSS** – Design und Layout  
+- **JavaScript** – Logik und Interaktivität  
 
 ---
 
