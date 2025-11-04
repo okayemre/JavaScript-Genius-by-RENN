@@ -1,0 +1,33 @@
+
+1. Was ist JavaScript?
+Antwort: Eine Programmiersprache für Webseiten.
+
+2. Wann wurde JavaScript erfunden? Antwort:
+JavaScript wurde im Jahr 1995 erfunden.
+
+3. Wer hat JavaScript erfunden?
+Antwort: Brendan Eich
+
+4. Für welche Firma arbeitete er damals?
+Antwort: Netscape
+
+5. Wie lange hat die Entwicklung der ersten Version von JavaScript gedauert?
+Antwort:
+Erstaunlicherweise nur 10 Tage – Brendan Eich schrieb die erste Version in nur zehn Tagen im Mai 1995.
+
+6. Wie hieß JavaScript zuerst?
+Antwort: Mocha, später LiveScript, dann JavaScript
+
+7. Warum wurde JavaScript erfunden?
+Antwort: Um Webseiten interaktiver zu machen
+
+8. Ist JavaScript das gleiche wie Java?
+Antwort: Nein, das sind zwei verschiedene Sprachen.
+
+9. Was ist ein String?
+Antwort:
+Ein Text in Anführungszeichen.
+
+10.Was ist ein Boolean?
+Antwort:
+Ein Wert, der nur wahr (true) oder falsch (false) sein kann.
